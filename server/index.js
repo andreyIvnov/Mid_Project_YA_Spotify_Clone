@@ -18,21 +18,25 @@ app.get("/login", (req, res) => {
 });
 
 app.post("/callback", async (req, res) => {
-    const code = req.body.code;
+    try {
+        const code = req.body.code;
 
-    const params = new URLSearchParams();
-    params.append('grant_type', 'authorization_code');
-    params.append('code', code);
-    params.append('redirect_uri', REDIRECT_URI);
+        const params = new URLSearchParams();
+        params.append('grant_type', 'authorization_code');
+        params.append('code', code);
+        params.append('redirect_uri', REDIRECT_URI);
 
-    const tokenResponse = await axios.post('https://accounts.spotify.com/api/token', params, {
-        headers: {
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'Authorization': 'Basic ' + Buffer.from(`${CLIENT_ID}:${CLIENT_SECRET}`).toString('base64')
-        }
-    });
+        const tokenResponse = await axios.post('https://accounts.spotify.com/api/token', params, {
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Authorization': 'Basic ' + Buffer.from(`${CLIENT_ID}:${CLIENT_SECRET}`).toString('base64')
+            }
+        });
 
-    res.json(tokenResponse.data)
+        res.json(tokenResponse.data)
+    } catch (error) {
+        console.log("\nFull Error:\n", error + "\n");
+    }
 })
 
 app.get("/me", async (req, res) => {
@@ -51,7 +55,7 @@ app.get("/me", async (req, res) => {
         res.json(profileResponse.data);
     } catch (error) {
         console.error(error.response.data);
-        res.status(500).json({ error: "Failed to fetch profile", details: error.response.data });
+        res.status(500).json({ error: "Failed to fetch profile", details: error.response.data, fullerror: error });
     }
 });
 

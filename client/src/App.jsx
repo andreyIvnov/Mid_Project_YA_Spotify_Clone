@@ -1,13 +1,11 @@
-import MainLayout from './MainLayout'
+import './App.css'
+import WelcomePage from './WelcomePage'
 
 
 function App() {
-
   return (
     <>
-      <div>
-        <MainLayout />
-      </div>
+      <WelcomePage />
     </>
   )
 }
