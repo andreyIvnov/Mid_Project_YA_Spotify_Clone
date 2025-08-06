@@ -1,4 +1,5 @@
 require("dotenv").config();
+const https = require("https")
 const express = require("express");
 const axios = require("axios");
 const cors = require("cors");
@@ -30,12 +31,13 @@ app.post("/callback", async (req, res) => {
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded',
                 'Authorization': 'Basic ' + Buffer.from(`${CLIENT_ID}:${CLIENT_SECRET}`).toString('base64')
-            }
+            },
+            httpsAgent: new https.Agent({ rejectUnauthorized: false })
         });
 
         res.json(tokenResponse.data)
     } catch (error) {
-        console.log("\nFull Error:\n", error + "\n");
+        console.error("\nFull Error:\n", error + "\n");
     }
 })
 
@@ -50,24 +52,26 @@ app.get("/me", async (req, res) => {
         const profileResponse = await axios.get('https://api.spotify.com/v1/me', {
             headers: {
                 'Authorization': `Bearer ${accessToken}`
-            }
+            },
+            httpsAgent: new https.Agent({ rejectUnauthorized: false })
         });
         res.json(profileResponse.data);
     } catch (error) {
-        console.error(error.response.data);
+        console.error(`\n${error.response.data}\n`);
         res.status(500).json({ error: "Failed to fetch profile", details: error.response.data, fullerror: error });
     }
 });
 
-app.get("/artists", async (req, res) => {
+app.get("/playlists", async (req, res) => {
     try {
         const token = req.headers.authorization?.split(' ')[1];
         const playlists = await axios.get('https://api.spotify.com/v1/me/playlists', {
-            headers: { Authorization: `Bearer ${token}` }
+            headers: { Authorization: `Bearer ${token}` },
+            httpsAgent: new https.Agent({ rejectUnauthorized: false })
         });
         res.json(playlists.data);
     } catch (error) {
-        console.error(error.response.data);
+        console.error(`\n${error.response.data}\n`);
         res.status(500).json({ error: "Failed to fetch artists", details: error.response.data });
     }
 })
@@ -80,7 +84,7 @@ app.get("/top-artists", async (req, res) => {
         });
         res.json(topArtists.data);
     } catch (error) {
-        console.error(error.response.data);
+        console.error(`\n${error.response.data}\n`);
         res.status(500).json({ error: "Faild to fetch Top Aartists", details: error.response.data })
     }
 })
@@ -95,7 +99,7 @@ app.get("/search", async (req, res) => {
         });
         res.json(searchResults.data);
     } catch (error) {
-        console.error(error.response.data);
+        console.error(`\n${error.response.data}\n`);
         res.status(500).json({ error: "Faild to fetch search", details: error.response.data })
     }
 })

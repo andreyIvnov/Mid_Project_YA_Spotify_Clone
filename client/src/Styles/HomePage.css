@@ -1,0 +1,13 @@
+.home-page-main-container{
+    background: black;
+    padding: 30px 50px;
+}
+
+.playlists-arie{
+    text-align: left;
+}
+
+.playlist-image{
+    width: 154px;
+    height: 154px;
+}
