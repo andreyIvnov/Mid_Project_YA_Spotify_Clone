@@ -1,0 +1,1124 @@
+[
+    {
+        "collaborative": false,
+        "description": "Playlist created by the tutorial on developer.spotify.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7jLbXW7nM0A0Db3xUjEmWN"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7jLbXW7nM0A0Db3xUjEmWN",
+        "id": "7jLbXW7nM0A0Db3xUjEmWN",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e0226009bf57aa42e6b01119891ab67616d00001e022c609ef0725801da4156a8d8ab67616d00001e0237a40ab12a4fb96319a9d96fab67616d00001e02892c0f8a211021f34c1dab5f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e0226009bf57aa42e6b01119891ab67616d00001e022c609ef0725801da4156a8d8ab67616d00001e0237a40ab12a4fb96319a9d96fab67616d00001e02892c0f8a211021f34c1dab5f",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e0226009bf57aa42e6b01119891ab67616d00001e022c609ef0725801da4156a8d8ab67616d00001e0237a40ab12a4fb96319a9d96fab67616d00001e02892c0f8a211021f34c1dab5f",
+                "width": 60
+            }
+        ],
+        "name": "My top tracks playlist",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAAiaw1O0YJOl39sNKKOEFwn2AeAmx",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7jLbXW7nM0A0Db3xUjEmWN/tracks",
+            "total": 5
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7jLbXW7nM0A0Db3xUjEmWN"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/68dpQ7uSD6nESNKMNJjXsi"
+        },
+        "href": "https://api.spotify.com/v1/playlists/68dpQ7uSD6nESNKMNJjXsi",
+        "id": "68dpQ7uSD6nESNKMNJjXsi",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e02353576103dba5c1ba6ab53c3ab67616d00001e028fd7578cb75dd30b4fdde9dfab67616d00001e02f0a8272998f3a0f92b2541dcab67616d00001e02f12784179fecee512ab71706",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e02353576103dba5c1ba6ab53c3ab67616d00001e028fd7578cb75dd30b4fdde9dfab67616d00001e02f0a8272998f3a0f92b2541dcab67616d00001e02f12784179fecee512ab71706",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e02353576103dba5c1ba6ab53c3ab67616d00001e028fd7578cb75dd30b4fdde9dfab67616d00001e02f0a8272998f3a0f92b2541dcab67616d00001e02f12784179fecee512ab71706",
+                "width": 60
+            }
+        ],
+        "name": "Boop",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAB1WxN1XZ9Q0unR42xJDHW6k5rYlT",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/68dpQ7uSD6nESNKMNJjXsi/tracks",
+            "total": 6
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:68dpQ7uSD6nESNKMNJjXsi"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4yC16AoX0FrdetJ9b7rh2d"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4yC16AoX0FrdetJ9b7rh2d",
+        "id": "4yC16AoX0FrdetJ9b7rh2d",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841d10b1fd1e4cbcc8657eeaf9",
+                "width": null
+            }
+        ],
+        "name": "SEA SHANTIES THAT DROP MY PANTIES",
+        "owner": {
+            "display_name": "Luna Terra",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1135819119"
+            },
+            "href": "https://api.spotify.com/v1/users/1135819119",
+            "id": "1135819119",
+            "type": "user",
+            "uri": "spotify:user:1135819119"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAByV7eTqqT64d3Jf4siN8ry0vPMHI1",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4yC16AoX0FrdetJ9b7rh2d/tracks",
+            "total": 280
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4yC16AoX0FrdetJ9b7rh2d"
+    },
+    {
+        "collaborative": false,
+        "description": "Spotify support being unhelpful with takedown notification, I built a bot to restore my metadata. Fighting &quot;fake reporting&quot; bots with my own bot... The symbol on the picture represents a &quot;Vegvísir&quot; (runic compass). If this sign is carried, one will never lose ones way in storms or bad weather.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4r2twUYtviwpCpFnrfkkgM"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4r2twUYtviwpCpFnrfkkgM",
+        "id": "4r2twUYtviwpCpFnrfkkgM",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a8f9928c1af4f45f05a392dd",
+                "width": null
+            }
+        ],
+        "name": "Nordic & Viking Music",
+        "owner": {
+            "display_name": "RobNO",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/robno97"
+            },
+            "href": "https://api.spotify.com/v1/users/robno97",
+            "id": "robno97",
+            "type": "user",
+            "uri": "spotify:user:robno97"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AABFotESITvrzzjhU+U9XuqLEh5IRsPI",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4r2twUYtviwpCpFnrfkkgM/tracks",
+            "total": 104
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4r2twUYtviwpCpFnrfkkgM"
+    },
+    {
+        "collaborative": false,
+        "description": "&quot;Are you going to pull those pistols or whistle Dixie?&quot; - Josey Wales (playlist is a mix of mountain blues, Western, Southern gothic, dark country and highway rock&#x27;n&#x27;roll. Emphasis on heavy guitar riffs)",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2ktEuezgtVx9Wpeo7A67t6"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2ktEuezgtVx9Wpeo7A67t6",
+        "id": "2ktEuezgtVx9Wpeo7A67t6",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84265ca344bea09aba6eaba3ee",
+                "width": null
+            }
+        ],
+        "name": "Dark Country (Rugged Mountain Blues & Highway Rock)",
+        "owner": {
+            "display_name": "Jacob Ruskov-Nielsen",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1119260909"
+            },
+            "href": "https://api.spotify.com/v1/users/1119260909",
+            "id": "1119260909",
+            "type": "user",
+            "uri": "spotify:user:1119260909"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAlQgMkHkA8qgcR7i8SHVnqYkHGPai",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2ktEuezgtVx9Wpeo7A67t6/tracks",
+            "total": 135
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2ktEuezgtVx9Wpeo7A67t6"
+    },
+    {
+        "collaborative": false,
+        "description": "<a href=\"https://eniverserecords.de//\">WANT TO RELEASE YOUR NEXT SINGLE WITH US?</a> - PSYTRANCE GOA PSYTRANCE PSYCHEDELIC PSY TRANCE PSYCHODELIC MINIMAL HIGHLIGHT TRIBE PROGRESSIVE TECHNO EURODANCE DREAMDANCE DREAMTRANCE HARDTRANCE ACID NEW BEAT INDIANDARKPSY FOREST HITECH PSY SUOMI PSY CHILL",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4wIA3KVqx2iCb81C3IiP9v"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4wIA3KVqx2iCb81C3IiP9v",
+        "id": "4wIA3KVqx2iCb81C3IiP9v",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ce12ff6b35706244870e3137",
+                "width": null
+            }
+        ],
+        "name": "PROGRESSIVE PSYTRANCE 2024",
+        "owner": {
+            "display_name": "ENIVERSE RECORDS",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/8fwecnm0bvx3bpchhg3ntes2f"
+            },
+            "href": "https://api.spotify.com/v1/users/8fwecnm0bvx3bpchhg3ntes2f",
+            "id": "8fwecnm0bvx3bpchhg3ntes2f",
+            "type": "user",
+            "uri": "spotify:user:8fwecnm0bvx3bpchhg3ntes2f"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAABB1uONFSkcGXzkCjkUhqQlbkK61pL",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4wIA3KVqx2iCb81C3IiP9v/tracks",
+            "total": 85
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4wIA3KVqx2iCb81C3IiP9v"
+    },
+    {
+        "collaborative": false,
+        "description": "chill minimal progressive trance techno. Updated regularly ",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6MdEI0qlL2nGOQHFUV5EeQ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6MdEI0qlL2nGOQHFUV5EeQ",
+        "id": "6MdEI0qlL2nGOQHFUV5EeQ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e02b5869974a824f8f9a770782fab67616d00001e02bce5a642876fa41d0d8d2473ab67616d00001e02d45b39491f7f6e0854ca96c5ab67616d00001e02e2169c989f80856cca2857be",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e02b5869974a824f8f9a770782fab67616d00001e02bce5a642876fa41d0d8d2473ab67616d00001e02d45b39491f7f6e0854ca96c5ab67616d00001e02e2169c989f80856cca2857be",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e02b5869974a824f8f9a770782fab67616d00001e02bce5a642876fa41d0d8d2473ab67616d00001e02d45b39491f7f6e0854ca96c5ab67616d00001e02e2169c989f80856cca2857be",
+                "width": 60
+            }
+        ],
+        "name": "MINIMAL PROGRESSIVE TRANCE TECHNO  🌊",
+        "owner": {
+            "display_name": "Sena Yavuz",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/sena.yavuz"
+            },
+            "href": "https://api.spotify.com/v1/users/sena.yavuz",
+            "id": "sena.yavuz",
+            "type": "user",
+            "uri": "spotify:user:sena.yavuz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAADCR+O7g3p5bQ4RRcQ1aWusIwFf5lz",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6MdEI0qlL2nGOQHFUV5EeQ/tracks",
+            "total": 173
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6MdEI0qlL2nGOQHFUV5EeQ"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/09h865opdpPKWZ208Hum85"
+        },
+        "href": "https://api.spotify.com/v1/playlists/09h865opdpPKWZ208Hum85",
+        "id": "09h865opdpPKWZ208Hum85",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e0234f4df4fb46a353f732b2b24ab67616d00001e028b09d10423af447e1cb06b6cab67616d00001e02f2c583c62558ea14ddcde0beab67616d00001e02fa427a323a21bfd1a79b1094",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e0234f4df4fb46a353f732b2b24ab67616d00001e028b09d10423af447e1cb06b6cab67616d00001e02f2c583c62558ea14ddcde0beab67616d00001e02fa427a323a21bfd1a79b1094",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e0234f4df4fb46a353f732b2b24ab67616d00001e028b09d10423af447e1cb06b6cab67616d00001e02f2c583c62558ea14ddcde0beab67616d00001e02fa427a323a21bfd1a79b1094",
+                "width": 60
+            }
+        ],
+        "name": "outlaw blues/dark country (heavy)",
+        "owner": {
+            "display_name": "matthope1308",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/matthope1308"
+            },
+            "href": "https://api.spotify.com/v1/users/matthope1308",
+            "id": "matthope1308",
+            "type": "user",
+            "uri": "spotify:user:matthope1308"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAACsU0I62HKs4PyX5IvmBZil6I/p+1I",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/09h865opdpPKWZ208Hum85/tracks",
+            "total": 289
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:09h865opdpPKWZ208Hum85"
+    },
+    {
+        "collaborative": false,
+        "description": "Collection of Electro Swing songs, updated regularely.  Includes the classics and some lesser known titles. Enjoy the 2020s!",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2J4YrqcExog5yZZhzOnBk7"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2J4YrqcExog5yZZhzOnBk7",
+        "id": "2J4YrqcExog5yZZhzOnBk7",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ce0fe60a0c09216733794249b",
+                "width": null
+            }
+        ],
+        "name": "Electro Swing",
+        "owner": {
+            "display_name": "Bart Verdonschot",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/bart.v-nl"
+            },
+            "href": "https://api.spotify.com/v1/users/bart.v-nl",
+            "id": "bart.v-nl",
+            "type": "user",
+            "uri": "spotify:user:bart.v-nl"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAB4WsUqvYPffIlPmyxTfjA7Tii7pss",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2J4YrqcExog5yZZhzOnBk7/tracks",
+            "total": 200
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2J4YrqcExog5yZZhzOnBk7"
+    },
+    {
+        "collaborative": false,
+        "description": "HYPERTECHNO REMIXES 2025 - VIRAL TIKTOK HYPERTECHNO. DJ Raveyard is reviewing song submissions on <a href=\"https://www.tiktok.com/@djraveyard\">TikTok!</a>",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1WctW4hgXGUa6YJgsZYCNC"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1WctW4hgXGUa6YJgsZYCNC",
+        "id": "1WctW4hgXGUa6YJgsZYCNC",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cab21069c00c90ddbe08b65e5",
+                "width": null
+            }
+        ],
+        "name": "HYPERTECHNO REMIXES 2025 - VIRAL TIKTOK HYPERTECHNO - TEKKNO - Techno Music 2025",
+        "owner": {
+            "display_name": "Actuation",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/5a1j2i1kgfu92ah5w6n24rzy9"
+            },
+            "href": "https://api.spotify.com/v1/users/5a1j2i1kgfu92ah5w6n24rzy9",
+            "id": "5a1j2i1kgfu92ah5w6n24rzy9",
+            "type": "user",
+            "uri": "spotify:user:5a1j2i1kgfu92ah5w6n24rzy9"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAFm04LMPfCiJLBGZq4MqXtADMynTgg",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1WctW4hgXGUa6YJgsZYCNC/tracks",
+            "total": 118
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1WctW4hgXGUa6YJgsZYCNC"
+    },
+    {
+        "collaborative": false,
+        "description": "Essential tracks by The Darkhorse Collective, plus selected psych&#x2F;prog&#x2F;alt&#x2F;metal tracks IG: @thedarkhorsecollective for submissions",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3zJb41H5Y3eLjBlNPdYTyp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3zJb41H5Y3eLjBlNPdYTyp",
+        "id": "3zJb41H5Y3eLjBlNPdYTyp",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846d79e6dd8f0378ccc4d7416b",
+                "width": null
+            }
+        ],
+        "name": "The Darkhorse Collection",
+        "owner": {
+            "display_name": "Tyler",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/5lxh9hnpkdfr3hi8koiqeytlf"
+            },
+            "href": "https://api.spotify.com/v1/users/5lxh9hnpkdfr3hi8koiqeytlf",
+            "id": "5lxh9hnpkdfr3hi8koiqeytlf",
+            "type": "user",
+            "uri": "spotify:user:5lxh9hnpkdfr3hi8koiqeytlf"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAx3ALv3LeIdtUjy5BQiMTGLjssWoW",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3zJb41H5Y3eLjBlNPdYTyp/tracks",
+            "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3zJb41H5Y3eLjBlNPdYTyp"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6aPpNJExurlPCpPzfqAPaI"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6aPpNJExurlPCpPzfqAPaI",
+        "id": "6aPpNJExurlPCpPzfqAPaI",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e024a09fe581a30486e3480ff2eab67616d00001e027e8afb2c00688df0b6c9248aab67616d00001e02ab6c86eb03d2339e98e33c43ab67616d00001e02f953ec991ec6c8aabcb709c8",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e024a09fe581a30486e3480ff2eab67616d00001e027e8afb2c00688df0b6c9248aab67616d00001e02ab6c86eb03d2339e98e33c43ab67616d00001e02f953ec991ec6c8aabcb709c8",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e024a09fe581a30486e3480ff2eab67616d00001e027e8afb2c00688df0b6c9248aab67616d00001e02ab6c86eb03d2339e98e33c43ab67616d00001e02f953ec991ec6c8aabcb709c8",
+                "width": 60
+            }
+        ],
+        "name": "Rodion New shit 2",
+        "owner": {
+            "display_name": "Rodion",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/31tkaz656bc4rrjoobvl2oueogxa"
+            },
+            "href": "https://api.spotify.com/v1/users/31tkaz656bc4rrjoobvl2oueogxa",
+            "id": "31tkaz656bc4rrjoobvl2oueogxa",
+            "type": "user",
+            "uri": "spotify:user:31tkaz656bc4rrjoobvl2oueogxa"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAJXRozGagLX8IUuhoIOQ3Zoov5M/A",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6aPpNJExurlPCpPzfqAPaI/tracks",
+            "total": 30
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6aPpNJExurlPCpPzfqAPaI"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2iCzNhFYehEeEQv3U9UZOr"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2iCzNhFYehEeEQv3U9UZOr",
+        "id": "2iCzNhFYehEeEQv3U9UZOr",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848ce86f10dd883785edf7d347",
+                "width": null
+            }
+        ],
+        "name": "vini vici & astrix",
+        "owner": {
+            "display_name": "ecekartalbas",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/ece_kartalbas_"
+            },
+            "href": "https://api.spotify.com/v1/users/ece_kartalbas_",
+            "id": "ece_kartalbas_",
+            "type": "user",
+            "uri": "spotify:user:ece_kartalbas_"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAHylzC9yAIKcOcJGIpIFAqEeFxuTo",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2iCzNhFYehEeEQv3U9UZOr/tracks",
+            "total": 28
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2iCzNhFYehEeEQv3U9UZOr"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/34rUTI806BQlYrjmviSsjT"
+        },
+        "href": "https://api.spotify.com/v1/playlists/34rUTI806BQlYrjmviSsjT",
+        "id": "34rUTI806BQlYrjmviSsjT",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c256632276f1003f3ca203071",
+                "width": null
+            }
+        ],
+        "name": "Whiskey, Bluess & Jazz ",
+        "owner": {
+            "display_name": "JavierRamos",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/errilmw6430u6vks0kzkv2j00"
+            },
+            "href": "https://api.spotify.com/v1/users/errilmw6430u6vks0kzkv2j00",
+            "id": "errilmw6430u6vks0kzkv2j00",
+            "type": "user",
+            "uri": "spotify:user:errilmw6430u6vks0kzkv2j00"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAv7pakBgRXYcu0J47o4upfwK4Zfa5",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/34rUTI806BQlYrjmviSsjT/tracks",
+            "total": 101
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:34rUTI806BQlYrjmviSsjT"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3xqgdzMftrDPDDDpalFY0U"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3xqgdzMftrDPDDDpalFY0U",
+        "id": "3xqgdzMftrDPDDDpalFY0U",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e020158cbde70672dd821972907ab67616d00001e022d4c593f0f35672767d881a9ab67616d00001e02890ce61533a89e00ce593fcbab67616d00001e02cbd2ee7dff77bfb2b5f0af52",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e020158cbde70672dd821972907ab67616d00001e022d4c593f0f35672767d881a9ab67616d00001e02890ce61533a89e00ce593fcbab67616d00001e02cbd2ee7dff77bfb2b5f0af52",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e020158cbde70672dd821972907ab67616d00001e022d4c593f0f35672767d881a9ab67616d00001e02890ce61533a89e00ce593fcbab67616d00001e02cbd2ee7dff77bfb2b5f0af52",
+                "width": 60
+            }
+        ],
+        "name": "Pop rock ",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAA1muepuskq0Jnlrvh3wE5a0hlX/l",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3xqgdzMftrDPDDDpalFY0U/tracks",
+            "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3xqgdzMftrDPDDDpalFY0U"
+    },
+    {
+        "collaborative": false,
+        "description": "All Albums, All Singles, All Remixes by and for maestros IM. enjoy ♥ LAST UPDATE: DECEMBER 24 (PSYTRANCE MAFIA)",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0ASjUGFVop4Ke5fVFBDO10"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0ASjUGFVop4Ke5fVFBDO10",
+        "id": "0ASjUGFVop4Ke5fVFBDO10",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e0258e9b4967eb2f7a642cf1e93ab67616d00001e02a1148567f1d1a5511ac428c7ab67616d00001e02f4862b4fa494ef26fd8f199eab67616d00001e02f4e27b41e3f58fdf43cd5bf2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e0258e9b4967eb2f7a642cf1e93ab67616d00001e02a1148567f1d1a5511ac428c7ab67616d00001e02f4862b4fa494ef26fd8f199eab67616d00001e02f4e27b41e3f58fdf43cd5bf2",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e0258e9b4967eb2f7a642cf1e93ab67616d00001e02a1148567f1d1a5511ac428c7ab67616d00001e02f4862b4fa494ef26fd8f199eab67616d00001e02f4e27b41e3f58fdf43cd5bf2",
+                "width": 60
+            }
+        ],
+        "name": "Infected Mushroom Radio: Complete Discography",
+        "owner": {
+            "display_name": "Gal Ben Yehoshua",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/itsgalb"
+            },
+            "href": "https://api.spotify.com/v1/users/itsgalb",
+            "id": "itsgalb",
+            "type": "user",
+            "uri": "spotify:user:itsgalb"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAloexyfDEG9x+FlgFl2bGwIyCrBG+",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0ASjUGFVop4Ke5fVFBDO10/tracks",
+            "total": 272
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0ASjUGFVop4Ke5fVFBDO10"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1mvXqzu77R1KQkkfJmGlEz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1mvXqzu77R1KQkkfJmGlEz",
+        "id": "1mvXqzu77R1KQkkfJmGlEz",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e023b8f9c148e9eead1143c78e6ab67616d00001e0257f627f712e7060d287dd732ab67616d00001e027062738cf97d16a8cff42a4bab67616d00001e028b9adf8ad743f16de738f4a6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e023b8f9c148e9eead1143c78e6ab67616d00001e0257f627f712e7060d287dd732ab67616d00001e027062738cf97d16a8cff42a4bab67616d00001e028b9adf8ad743f16de738f4a6",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e023b8f9c148e9eead1143c78e6ab67616d00001e0257f627f712e7060d287dd732ab67616d00001e027062738cf97d16a8cff42a4bab67616d00001e028b9adf8ad743f16de738f4a6",
+                "width": 60
+            }
+        ],
+        "name": "",
+        "owner": {
+            "display_name": "Ilona Novikova",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/31tw2u72nehqquhvwyj563huddgq"
+            },
+            "href": "https://api.spotify.com/v1/users/31tw2u72nehqquhvwyj563huddgq",
+            "id": "31tw2u72nehqquhvwyj563huddgq",
+            "type": "user",
+            "uri": "spotify:user:31tw2u72nehqquhvwyj563huddgq"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAEFhVgoJiX6Ao82K+Og5jzbjzB5B3",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1mvXqzu77R1KQkkfJmGlEz/tracks",
+            "total": 14
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1mvXqzu77R1KQkkfJmGlEz"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0zjGLygoBmpafEsGtk5n1a"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0zjGLygoBmpafEsGtk5n1a",
+        "id": "0zjGLygoBmpafEsGtk5n1a",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e02009ddeffc3a1ac501cccee8aab67616d00001e024ae6c57fb3f1a80881110952ab67616d00001e028019f3eaaf1ca6801c7bf4abab67616d00001e02a9e7c2c7234ee082ab8a9090",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e02009ddeffc3a1ac501cccee8aab67616d00001e024ae6c57fb3f1a80881110952ab67616d00001e028019f3eaaf1ca6801c7bf4abab67616d00001e02a9e7c2c7234ee082ab8a9090",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e02009ddeffc3a1ac501cccee8aab67616d00001e024ae6c57fb3f1a80881110952ab67616d00001e028019f3eaaf1ca6801c7bf4abab67616d00001e02a9e7c2c7234ee082ab8a9090",
+                "width": 60
+            }
+        ],
+        "name": "",
+        "owner": {
+            "display_name": "Megan Linski-Fox",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/12179397807"
+            },
+            "href": "https://api.spotify.com/v1/users/12179397807",
+            "id": "12179397807",
+            "type": "user",
+            "uri": "spotify:user:12179397807"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAABHrhks/xqosRfhnKeYBBcUYADgfTk",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0zjGLygoBmpafEsGtk5n1a/tracks",
+            "total": 239
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0zjGLygoBmpafEsGtk5n1a"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0QLSMkroHQtXttagYxGqk0"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0QLSMkroHQtXttagYxGqk0",
+        "id": "0QLSMkroHQtXttagYxGqk0",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e02d1bf73b43408f8baaaf9f634ab67616d00001e02d223a57ba5c7ad94458a78baab67616d00001e02d45153e11ef996929f9766cfab67616d00001e02ed923e2a8d86dad162631139",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e02d1bf73b43408f8baaaf9f634ab67616d00001e02d223a57ba5c7ad94458a78baab67616d00001e02d45153e11ef996929f9766cfab67616d00001e02ed923e2a8d86dad162631139",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e02d1bf73b43408f8baaaf9f634ab67616d00001e02d223a57ba5c7ad94458a78baab67616d00001e02d45153e11ef996929f9766cfab67616d00001e02ed923e2a8d86dad162631139",
+                "width": 60
+            }
+        ],
+        "name": "Русс",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAEz5d4T59TQQFeISG07MT8p+VGfJE",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0QLSMkroHQtXttagYxGqk0/tracks",
+            "total": 16
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0QLSMkroHQtXttagYxGqk0"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2NlUC64wAhUQvV85D3pgsI"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2NlUC64wAhUQvV85D3pgsI",
+        "id": "2NlUC64wAhUQvV85D3pgsI",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d35e660d944b0601765fc32a",
+                "width": null
+            }
+        ],
+        "name": "OST",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAABtz9vRqSXH23VrpW1S6IqpUQh3D0",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2NlUC64wAhUQvV85D3pgsI/tracks",
+            "total": 3
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2NlUC64wAhUQvV85D3pgsI"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6lXHpqz027Lxwb7Mtl2ovR"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6lXHpqz027Lxwb7Mtl2ovR",
+        "id": "6lXHpqz027Lxwb7Mtl2ovR",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e024d86ea1258b076350ef6116dab67616d00001e02599c12902318e1332fb1d657ab67616d00001e027663136a5b41aa7b6704bfd3ab67616d00001e02e3df337c2401e242d9bb04f9",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e024d86ea1258b076350ef6116dab67616d00001e02599c12902318e1332fb1d657ab67616d00001e027663136a5b41aa7b6704bfd3ab67616d00001e02e3df337c2401e242d9bb04f9",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e024d86ea1258b076350ef6116dab67616d00001e02599c12902318e1332fb1d657ab67616d00001e027663136a5b41aa7b6704bfd3ab67616d00001e02e3df337c2401e242d9bb04f9",
+                "width": 60
+            }
+        ],
+        "name": "Мои треки Shazam",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAABnmyyqLzye+hbJ1xihMOdSvNnvZK",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6lXHpqz027Lxwb7Mtl2ovR/tracks",
+            "total": 12
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6lXHpqz027Lxwb7Mtl2ovR"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2TLNKlGJxh3KmcfF3n9WEO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2TLNKlGJxh3KmcfF3n9WEO",
+        "id": "2TLNKlGJxh3KmcfF3n9WEO",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67616d00001e024d86ea1258b076350ef6116d",
+                "width": null
+            }
+        ],
+        "name": "Shazam",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAAA0KqhZn6Ffv62jEMILWUSwwdtgpA",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2TLNKlGJxh3KmcfF3n9WEO/tracks",
+            "total": 2
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2TLNKlGJxh3KmcfF3n9WEO"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/06n68YIqQvQLwUiWK71s0J"
+        },
+        "href": "https://api.spotify.com/v1/playlists/06n68YIqQvQLwUiWK71s0J",
+        "id": "06n68YIqQvQLwUiWK71s0J",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e024cae38a6f729c6fd7089d25dab67616d00001e0253d591dadf6128acad7aaa8aab67616d00001e0287552d687cee6eaa3658d636ab67616d00001e02a49da0e47ed46da82106ddf2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e024cae38a6f729c6fd7089d25dab67616d00001e0253d591dadf6128acad7aaa8aab67616d00001e0287552d687cee6eaa3658d636ab67616d00001e02a49da0e47ed46da82106ddf2",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e024cae38a6f729c6fd7089d25dab67616d00001e0253d591dadf6128acad7aaa8aab67616d00001e0287552d687cee6eaa3658d636ab67616d00001e02a49da0e47ed46da82106ddf2",
+                "width": 60
+            }
+        ],
+        "name": "Psy",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAADnvAubPwqmDi41ssVHwrqW87q9VH",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/06n68YIqQvQLwUiWK71s0J/tracks",
+            "total": 13
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:06n68YIqQvQLwUiWK71s0J"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2jcpkJuHW0L66zKoEnova5"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2jcpkJuHW0L66zKoEnova5",
+        "id": "2jcpkJuHW0L66zKoEnova5",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e025827c499129d9d9b4eaa536aab67616d00001e026259e72268fbca4c5d5d12e2ab67616d00001e02ae282dea0a469ba1d5759c9bab67616d00001e02b13b5a5dbfa5462fe323096f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e025827c499129d9d9b4eaa536aab67616d00001e026259e72268fbca4c5d5d12e2ab67616d00001e02ae282dea0a469ba1d5759c9bab67616d00001e02b13b5a5dbfa5462fe323096f",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e025827c499129d9d9b4eaa536aab67616d00001e026259e72268fbca4c5d5d12e2ab67616d00001e02ae282dea0a469ba1d5759c9bab67616d00001e02b13b5a5dbfa5462fe323096f",
+                "width": 60
+            }
+        ],
+        "name": "Good Vibes",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAASCIS+pvdR4Vd4FHveahwv/UhgAE9",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2jcpkJuHW0L66zKoEnova5/tracks",
+            "total": 62
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2jcpkJuHW0L66zKoEnova5"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0d2sYiYxSwgibvvBUC0hH9"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0d2sYiYxSwgibvvBUC0hH9",
+        "id": "0d2sYiYxSwgibvvBUC0hH9",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e0228d71b8140c6738f47831425ab67616d00001e02c6d674961490113e01f76e95ab67616d00001e02cfa60e86ad5fcd6bb414f781ab67616d00001e02f5cbc6a9b160b2567ac0aaf3",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e0228d71b8140c6738f47831425ab67616d00001e02c6d674961490113e01f76e95ab67616d00001e02cfa60e86ad5fcd6bb414f781ab67616d00001e02f5cbc6a9b160b2567ac0aaf3",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e0228d71b8140c6738f47831425ab67616d00001e02c6d674961490113e01f76e95ab67616d00001e02cfa60e86ad5fcd6bb414f781ab67616d00001e02f5cbc6a9b160b2567ac0aaf3",
+                "width": 60
+            }
+        ],
+        "name": "Techno",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAACWm0cFwtjBtSarHr+oaWmY/km2yd",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0d2sYiYxSwgibvvBUC0hH9/tracks",
+            "total": 8
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0d2sYiYxSwgibvvBUC0hH9"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2wpCHL1a8lgNKouavFKArb"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2wpCHL1a8lgNKouavFKArb",
+        "id": "2wpCHL1a8lgNKouavFKArb",
+        "images": [
+            {
+                "height": null,
+                "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84efdb3a8bf7d9afaa4bdb3be7",
+                "width": null
+            }
+        ],
+        "name": "All in one",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAABPzu38+dR7aLj96JyeNuWIlvIoJBJ",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2wpCHL1a8lgNKouavFKArb/tracks",
+            "total": 210
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2wpCHL1a8lgNKouavFKArb"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5tj5cayQQNiAj5P3s6KSAh"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5tj5cayQQNiAj5P3s6KSAh",
+        "id": "5tj5cayQQNiAj5P3s6KSAh",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d00001e021aa2474909c648492bcf27ceab67616d00001e023697d5ad9ce0484ad4458d5cab67616d00001e028a48864289dc2588f13274ecab67616d00001e02ca96d9b4e0df1d0120bf6d9b",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d00001e021aa2474909c648492bcf27ceab67616d00001e023697d5ad9ce0484ad4458d5cab67616d00001e028a48864289dc2588f13274ecab67616d00001e02ca96d9b4e0df1d0120bf6d9b",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d00001e021aa2474909c648492bcf27ceab67616d00001e023697d5ad9ce0484ad4458d5cab67616d00001e028a48864289dc2588f13274ecab67616d00001e02ca96d9b4e0df1d0120bf6d9b",
+                "width": 60
+            }
+        ],
+        "name": "Metal",
+        "owner": {
+            "display_name": "Andrey Ivanov",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+            },
+            "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+            "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+            "type": "user",
+            "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAAALP6yR1+3DHkoltevG+yfPAbDVXqD",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5tj5cayQQNiAj5P3s6KSAh/tracks",
+            "total": 42
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5tj5cayQQNiAj5P3s6KSAh"
+    }
+]

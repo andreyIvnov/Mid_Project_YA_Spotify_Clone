@@ -1,0 +1,33 @@
+{
+    "country": "IL",
+    "display_name": "Andrey Ivanov",
+    "email": "andrey93-15@mail.ru",
+    "explicit_content": {
+        "filter_enabled": false,
+        "filter_locked": false
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/6rrtqiq0rrjxwi0zk78sgh8mz"
+    },
+    "followers": {
+        "href": null,
+        "total": 1
+    },
+    "href": "https://api.spotify.com/v1/users/6rrtqiq0rrjxwi0zk78sgh8mz",
+    "id": "6rrtqiq0rrjxwi0zk78sgh8mz",
+    "images": [
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab6775700000ee8583fbb00f0d4dfe683f68f18a",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67757000003b8283fbb00f0d4dfe683f68f18a",
+            "width": 64
+        }
+    ],
+    "product": "premium",
+    "type": "user",
+    "uri": "spotify:user:6rrtqiq0rrjxwi0zk78sgh8mz"
+}

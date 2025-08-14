@@ -14,6 +14,7 @@ function App() {
       <Route path='' element={<WelcomePage />}/>
       <Route path='/callback' element={<WelcomePage />}/>
       <Route path='/home' element={<HomePage />}/>
+      {/* <Route path='/' element={<HomePage />}/> */}
     </Routes>
       
     </>
